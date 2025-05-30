@@ -1,5 +1,8 @@
 # IMAGE-CAPTIONING-FROM-CONTEXTUAL-METADATA-USING-VISION-LANGUAGE-MODELS-VLMS
 
+# SUJAN S (22PD35)
+## MSc (DATA SCIENCE)
+
 ## 🌐 Overview
 
 This project generates **concise** and **detailed** captions for visual content (charts, diagrams, images, etc.) using both:
@@ -115,7 +118,7 @@ In `output_folder/`:
 ### 🌟 VLM Used
 
 * BLIP-2 with ViT-GGML architecture
-* Fine-tuned on our custom dataset combining image content and structured metadata
+* Fine-tuned on my custom dataset combining image content and structured metadata
 
 ### 🚀 Training
 
@@ -148,7 +151,6 @@ Training is performed using the [`train.py`](./train.py) script.
 ### 🖼️ Images Considered (These are a few of them)
 
 ![Screenshot 2025-05-30 232106](https://github.com/user-attachments/assets/a32f1def-f9be-426d-9a42-2e89746cb9d4)
-![Screenshot 2025-05-30 232140](https://github.com/user-attachments/assets/82e01f17-069f-4499-8ff7-c130e3bbc473)
 ![Screenshot 2025-05-30 232202](https://github.com/user-attachments/assets/cc4b8da8-5b48-40a4-905e-bb0d52313918)
 ![Screenshot 2025-05-30 232230](https://github.com/user-attachments/assets/88a8a7c1-ff37-4683-b5ab-02ba332b168a)
 ![Screenshot 2025-05-30 232253](https://github.com/user-attachments/assets/5c98b00d-da5c-4959-83e2-7833bdedf2e9)
