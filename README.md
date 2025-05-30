@@ -141,17 +141,12 @@ Training is performed using the [`train.py`](./train.py) script.
 - **Learning Rate:** 5e-5  
 - **Scheduler:** Linear (no warmup)
 
-![Screenshot 2025-05-29 183525](https://github.com/user-attachments/assets/b5f8ff8d-4efe-498c-8a50-c625d19dacdd)
+![Screenshot 2025-05-29 183525](https://github.com/user-attachments/assets/bb2d4415-ac21-4259-a9a5-c6ef809f3dff)
+
 
 ### 🖼️ Images Considered (These are a few of them)
 
-![image](https://github.com/user-attachments/assets/04b6ad8b-53c4-49e0-92c1-047245a27bef)
-![image](https://github.com/user-attachments/assets/7cd9cad2-3c90-4b18-91c9-de483f3b810a)
-![image](https://github.com/user-attachments/assets/15cbe5bb-50a5-4f35-bc26-0b1c104f6f7a)
-![image](https://github.com/user-attachments/assets/4700e97c-af32-49f9-9ef8-83c797735b1d)
-![image](https://github.com/user-attachments/assets/48171cbf-6e87-493f-b1cd-8cce8e89c357)
-![image](https://github.com/user-attachments/assets/a2235fb5-97d2-4d69-a8b7-025b3f33497c)
-
+![Screenshot 2025-05-30 232253](https://github.com/user-attachments/assets/41a7261b-bc7b-4e37-b377-81961c3bf4a5)
 
 
 
