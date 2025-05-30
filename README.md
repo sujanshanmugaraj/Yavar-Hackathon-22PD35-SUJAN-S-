@@ -5,7 +5,7 @@
 **SUJAN S (22PD35)**  
 MSc (Data Science)
 
-## Overview
+## 1) Overview
 
 This project generates **concise** and **detailed** captions for visual content (charts, diagrams, images, etc.) using both:
 
@@ -16,7 +16,7 @@ It leverages fine-tuned open-source Vision-Language Models (VLMs) to generate gr
 
 ---
 
-## Problem Statement
+## 2) Problem Statement
 
 Develop a fine-tuned open-source VLM that:
 
@@ -27,7 +27,7 @@ Develop a fine-tuned open-source VLM that:
 
 ---
 
-## Folder Structure
+## 3) Folder Structure
 
 ```
 IMAGE-CAPTIONING-FROM-CONTEXTUAL-METADATA-USING-VISION-LANGUAGE-MODELS-VLMS/
@@ -69,11 +69,20 @@ IMAGE-CAPTIONING-FROM-CONTEXTUAL-METADATA-USING-VISION-LANGUAGE-MODELS-VLMS/
 
 ---
 
-## Input Format
+## 4) Input Format
 
 ### Images
 
-All test images (charts, graphs, circuit diagrams) should be placed in `img_folder/`.
+All test images (charts, graphs, circuit diagrams, etc) should be placed in `img_folder/`.
+
+### Images Considered (These are a few of them)
+
+![Screenshot 2025-05-30 232106](https://github.com/user-attachments/assets/a32f1def-f9be-426d-9a42-2e89746cb9d4)
+![Screenshot 2025-05-30 232202](https://github.com/user-attachments/assets/cc4b8da8-5b48-40a4-905e-bb0d52313918)
+![Screenshot 2025-05-30 232230](https://github.com/user-attachments/assets/88a8a7c1-ff37-4683-b5ab-02ba332b168a)
+![Screenshot 2025-05-30 232253](https://github.com/user-attachments/assets/5c98b00d-da5c-4959-83e2-7833bdedf2e9)
+![Screenshot 2025-05-30 232314](https://github.com/user-attachments/assets/8d70afeb-3a8a-4e55-9c3f-f4644c7e6686)
+
 
 ### Metadata
 
@@ -90,7 +99,7 @@ below_text: Source - Internal Report
 
 ---
 
-## Output Format
+## 5) Output Format
 
 In `output_folder/`:
 
@@ -115,7 +124,7 @@ In `output_folder/`:
 
 ---
 
-## Model & Methodology
+## 6) Model & Methodology
 
 ### VLM Used
 
@@ -150,15 +159,6 @@ Training is performed using the [`train.py`](./train.py) script.
 
 
 
-### Images Considered (These are a few of them)
-
-![Screenshot 2025-05-30 232106](https://github.com/user-attachments/assets/a32f1def-f9be-426d-9a42-2e89746cb9d4)
-![Screenshot 2025-05-30 232202](https://github.com/user-attachments/assets/cc4b8da8-5b48-40a4-905e-bb0d52313918)
-![Screenshot 2025-05-30 232230](https://github.com/user-attachments/assets/88a8a7c1-ff37-4683-b5ab-02ba332b168a)
-![Screenshot 2025-05-30 232253](https://github.com/user-attachments/assets/5c98b00d-da5c-4959-83e2-7833bdedf2e9)
-![Screenshot 2025-05-30 232314](https://github.com/user-attachments/assets/8d70afeb-3a8a-4e55-9c3f-f4644c7e6686)
-
-
 
 ### Preprocessing
 
@@ -191,7 +191,7 @@ Training is performed using the [`train.py`](./train.py) script.
 
 ---
 
-## Frontend & API
+## 7) Frontend & API
 
 * `frontend/index.html` allows image upload
 * Connects to `backend/app.py` Flask server
@@ -203,14 +203,14 @@ Training is performed using the [`train.py`](./train.py) script.
 
 ---
 
-## Logs & Error Handling
+## 8) Logs & Error Handling
 
 * Low-confidence or contradictory captions logged in `logs/`
 * Invalid images or corrupted metadata files are gracefully handled
 
 ---
 
-## Example Output
+## 9) Example Output
 
 ### The input image
 
@@ -239,7 +239,7 @@ Annotated in:
 
 ---
 
-## Constraints
+## 10) Constraints
 
 * Only open-source models/libraries used
 * Mandatory fine-tuning done
