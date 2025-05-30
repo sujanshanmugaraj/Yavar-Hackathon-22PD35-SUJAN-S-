@@ -226,7 +226,7 @@ Training is performed using the [`train.py`](./train.py) script.
 
 ![WhatsApp Image 2025-05-30 at 23 06 14_90805819](https://github.com/user-attachments/assets/bfe36a75-c4af-40d1-8489-241260d4b11c)
 
-![Screenshot 2025-05-30 210623](https://github.com/user-attachments/assets/932763b6-6ec0-40d6-8426-95a93e4bf4b8)
+![Screenshot 2025-05-30 210649](https://github.com/user-attachments/assets/697e28e4-abc6-4001-b994-214ff063945d)
 
 
 * **Concise (92%)**: "📝 LeBron James leads endorsement earnings among top athletes"
