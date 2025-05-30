@@ -1,0 +1,659 @@
+{
+  "ds10_0001.png": "Caption for ds10_0001.png",
+  "ds10_0002.png": "Caption for ds10_0002.png",
+  "ds10_0003.png": "Caption for ds10_0003.png",
+  "ds10_0004.png": "Caption for ds10_0004.png",
+  "ds10_0005.png": "Caption for ds10_0005.png",
+  "ds10_0006.png": "Caption for ds10_0006.png",
+  "ds10_0007.png": "Caption for ds10_0007.png",
+  "ds10_0008.png": "Caption for ds10_0008.png",
+  "ds10_0009.png": "Caption for ds10_0009.png",
+  "ds10_0010.png": "Caption for ds10_0010.png",
+  "ds10_0011.png": "Caption for ds10_0011.png",
+  "ds10_0012.png": "Caption for ds10_0012.png",
+  "ds10_0013.png": "Caption for ds10_0013.png",
+  "ds10_0014.png": "Caption for ds10_0014.png",
+  "ds10_0015.png": "Caption for ds10_0015.png",
+  "ds10_0016.png": {
+    "concise_caption": {
+      "text": "user engagement comparison between platforms and platforms",
+      "confidence": 0.0009
+    },
+    "detailed_caption": {
+      "text": "user engagement comparison between platforms please provide a detailed description.er",
+      "confidence": 0.0007
+    },
+    "metadata": {
+      "section_header": "Performance Trends",
+      "above_text": "Annual summary",
+      "caption": "User engagement comparison between platforms",
+      "picture_id": "#/pictures/0",
+      "footnote": "Q4 spikes due to seasonal demand",
+      "below_text": "Compiled by analytics team"
+    }
+  },
+  "ds10_0017.png": "Caption for ds10_0017.png",
+  "ds10_0018.png": "Caption for ds10_0018.png",
+  "ds10_0019.png": "Caption for ds10_0019.png",
+  "ds10_0020.png": "Caption for ds10_0020.png",
+  "ds10_0021.png": "Caption for ds10_0021.png",
+  "ds10_0022.png": "Caption for ds10_0022.png",
+  "ds10_0023.png": "Caption for ds10_0023.png",
+  "ds10_0024.png": "Caption for ds10_0024.png",
+  "ds10_0025.png": "Caption for ds10_0025.png",
+  "ds10_0026.png": "Caption for ds10_0026.png",
+  "ds10_0027.png": "Caption for ds10_0027.png",
+  "ds10_0028.png": "Caption for ds10_0028.png",
+  "ds10_0029.png": "Caption for ds10_0029.png",
+  "ds10_0030.png": "Caption for ds10_0030.png",
+  "ds10_0031.png": "Caption for ds10_0031.png",
+  "ds10_0032.png": "Caption for ds10_0032.png",
+  "ds10_0033.png": "Caption for ds10_0033.png",
+  "ds10_0034.png": "Caption for ds10_0034.png",
+  "ds10_0035.png": "Caption for ds10_0035.png",
+  "ds10_0036.png": "Caption for ds10_0036.png",
+  "ds10_0037.png": "Caption for ds10_0037.png",
+  "ds10_0038.png": "Caption for ds10_0038.png",
+  "ds10_0039.png": "Caption for ds10_0039.png",
+  "ds10_0040.png": "Caption for ds10_0040.png",
+  "ds10_0041.png": "Caption for ds10_0041.png",
+  "ds10_0042.png": "Caption for ds10_0042.png",
+  "ds10_0043.png": "Caption for ds10_0043.png",
+  "ds10_0044.png": "Caption for ds10_0044.png",
+  "ds10_0045.png": "Caption for ds10_0045.png",
+  "ds10_0046.png": "Caption for ds10_0046.png",
+  "ds10_0047.png": "Caption for ds10_0047.png",
+  "ds10_0048.png": "Caption for ds10_0048.png",
+  "ds10_0049.png": "Caption for ds10_0049.png",
+  "ds10_0050.png": "Caption for ds10_0050.png",
+  "ds10_0051.png": "Caption for ds10_0051.png",
+  "ds10_0052.png": "Caption for ds10_0052.png",
+  "ds10_0053.png": "Caption for ds10_0053.png",
+  "ds10_0054.png": "Caption for ds10_0054.png",
+  "ds10_0055.png": "Caption for ds10_0055.png",
+  "ds10_0056.png": "Caption for ds10_0056.png",
+  "ds10_0057.png": "Caption for ds10_0057.png",
+  "ds10_0058.png": "Caption for ds10_0058.png",
+  "ds10_0059.png": "Caption for ds10_0059.png",
+  "ds10_0060.png": "Caption for ds10_0060.png",
+  "ds10_0061.png": "Caption for ds10_0061.png",
+  "ds10_0062.png": "Caption for ds10_0062.png",
+  "ds10_0063.png": "Caption for ds10_0063.png",
+  "ds10_0064.png": "Caption for ds10_0064.png",
+  "ds10_0065.png": "Caption for ds10_0065.png",
+  "ds10_0066.png": "Caption for ds10_0066.png",
+  "ds10_0067.png": "Caption for ds10_0067.png",
+  "ds10_0068.png": "Caption for ds10_0068.png",
+  "ds10_0069.png": "Caption for ds10_0069.png",
+  "ds10_0070.png": "Caption for ds10_0070.png",
+  "ds10_0071.png": "Caption for ds10_0071.png",
+  "ds10_0072.png": "Caption for ds10_0072.png",
+  "ds10_0073.png": "Caption for ds10_0073.png",
+  "ds10_0074.png": "Caption for ds10_0074.png",
+  "ds10_0075.png": "Caption for ds10_0075.png",
+  "ds10_0076.png": "Caption for ds10_0076.png",
+  "ds10_0077.png": "Caption for ds10_0077.png",
+  "ds10_0078.png": "Caption for ds10_0078.png",
+  "ds10_0079.png": "Caption for ds10_0079.png",
+  "ds10_0080.png": "Caption for ds10_0080.png",
+  "ds10_0081.png": "Caption for ds10_0081.png",
+  "ds10_0082.png": "Caption for ds10_0082.png",
+  "ds10_0083.png": "Caption for ds10_0083.png",
+  "ds10_0084.png": "Caption for ds10_0084.png",
+  "ds10_0085.png": "Caption for ds10_0085.png",
+  "ds10_0086.png": "Caption for ds10_0086.png",
+  "ds10_0087.png": "Caption for ds10_0087.png",
+  "ds10_0088.png": "Caption for ds10_0088.png",
+  "ds10_0089.png": "Caption for ds10_0089.png",
+  "ds10_0090.png": "Caption for ds10_0090.png",
+  "ds10_0091.png": "Caption for ds10_0091.png",
+  "ds10_0092.png": "Caption for ds10_0092.png",
+  "ds10_0093.png": "Caption for ds10_0093.png",
+  "ds10_0094.png": "Caption for ds10_0094.png",
+  "ds10_0095.png": "Caption for ds10_0095.png",
+  "ds10_0096.png": "Caption for ds10_0096.png",
+  "ds10_0097.png": "Caption for ds10_0097.png",
+  "ds10_0098.png": "Caption for ds10_0098.png",
+  "ds10_0099.png": "Caption for ds10_0099.png",
+  "ds10_0100.png": "Caption for ds10_0100.png",
+  "ds10_0101.png": "Caption for ds10_0101.png",
+  "ds10_0102.png": "Caption for ds10_0102.png",
+  "ds10_0103.png": "Caption for ds10_0103.png",
+  "ds10_0104.png": "Caption for ds10_0104.png",
+  "ds10_0105.png": "Caption for ds10_0105.png",
+  "ds10_0106.png": "Caption for ds10_0106.png",
+  "ds10_0107.png": "Caption for ds10_0107.png",
+  "ds10_0108.png": "Caption for ds10_0108.png",
+  "ds10_0109.png": "Caption for ds10_0109.png",
+  "ds10_0110.png": "Caption for ds10_0110.png",
+  "ds10_0111.png": "Caption for ds10_0111.png",
+  "ds10_0112.png": "Caption for ds10_0112.png",
+  "ds10_0113.png": "Caption for ds10_0113.png",
+  "ds10_0114.png": "Caption for ds10_0114.png",
+  "ds10_0115.png": "Caption for ds10_0115.png",
+  "ds10_0116.png": "Caption for ds10_0116.png",
+  "ds10_0117.png": "Caption for ds10_0117.png",
+  "ds10_0118.png": "Caption for ds10_0118.png",
+  "ds10_0119.png": "Caption for ds10_0119.png",
+  "ds10_0120.png": "Caption for ds10_0120.png",
+  "ds10_0121.png": "Caption for ds10_0121.png",
+  "ds10_0122.png": "Caption for ds10_0122.png",
+  "ds10_0123.png": "Caption for ds10_0123.png",
+  "ds10_0124.png": "Caption for ds10_0124.png",
+  "ds10_0125.png": "Caption for ds10_0125.png",
+  "ds10_0126.png": "Caption for ds10_0126.png",
+  "ds10_0127.png": "Caption for ds10_0127.png",
+  "ds10_0128.png": "Caption for ds10_0128.png",
+  "ds10_0129.png": "Caption for ds10_0129.png",
+  "ds10_0130.png": "Caption for ds10_0130.png",
+  "ds10_0131.png": "Caption for ds10_0131.png",
+  "ds10_0132.png": "Caption for ds10_0132.png",
+  "ds10_0133.png": "Caption for ds10_0133.png",
+  "ds10_0134.png": "Caption for ds10_0134.png",
+  "ds10_0135.png": "Caption for ds10_0135.png",
+  "ds10_0136.png": "Caption for ds10_0136.png",
+  "ds10_0137.png": "Caption for ds10_0137.png",
+  "ds10_0138.png": "Caption for ds10_0138.png",
+  "ds10_0139.png": "Caption for ds10_0139.png",
+  "ds10_0140.png": "Caption for ds10_0140.png",
+  "ds10_0141.png": "Caption for ds10_0141.png",
+  "ds10_0142.png": "Caption for ds10_0142.png",
+  "ds10_0143.png": "Caption for ds10_0143.png",
+  "ds10_0144.png": "Caption for ds10_0144.png",
+  "ds10_0145.png": "Caption for ds10_0145.png",
+  "ds10_0146.png": "Caption for ds10_0146.png",
+  "ds10_0147.png": "Caption for ds10_0147.png",
+  "ds10_0148.png": "Caption for ds10_0148.png",
+  "ds10_0149.png": "Caption for ds10_0149.png",
+  "ds10_0150.png": "Caption for ds10_0150.png",
+  "ds10_0151.png": "Caption for ds10_0151.png",
+  "ds10_0152.png": "Caption for ds10_0152.png",
+  "ds10_0153.png": "Caption for ds10_0153.png",
+  "ds10_0154.png": "Caption for ds10_0154.png",
+  "ds10_0155.png": "Caption for ds10_0155.png",
+  "ds10_0156.png": "Caption for ds10_0156.png",
+  "ds10_0157.png": "Caption for ds10_0157.png",
+  "ds10_0158.png": "Caption for ds10_0158.png",
+  "ds10_0159.png": "Caption for ds10_0159.png",
+  "ds10_0160.png": "Caption for ds10_0160.png",
+  "ds10_0161.png": "Caption for ds10_0161.png",
+  "ds10_0162.png": "Caption for ds10_0162.png",
+  "ds10_0163.png": "Caption for ds10_0163.png",
+  "ds10_0164.png": "Caption for ds10_0164.png",
+  "ds10_0165.png": "Caption for ds10_0165.png",
+  "ds10_0166.png": "Caption for ds10_0166.png",
+  "ds10_0167.png": "Caption for ds10_0167.png",
+  "ds10_0168.png": "Caption for ds10_0168.png",
+  "ds10_0169.png": "Caption for ds10_0169.png",
+  "ds10_0170.png": "Caption for ds10_0170.png",
+  "ds10_0171.png": "Caption for ds10_0171.png",
+  "ds10_0172.png": "Caption for ds10_0172.png",
+  "ds10_0173.png": "Caption for ds10_0173.png",
+  "ds10_0174.png": "Caption for ds10_0174.png",
+  "ds10_0175.png": "Caption for ds10_0175.png",
+  "ds10_0176.png": "Caption for ds10_0176.png",
+  "ds10_0177.png": "Caption for ds10_0177.png",
+  "ds10_0178.png": "Caption for ds10_0178.png",
+  "ds10_0179.png": "Caption for ds10_0179.png",
+  "ds10_0180.png": "Caption for ds10_0180.png",
+  "ds10_0181.png": "Caption for ds10_0181.png",
+  "ds10_0182.png": "Caption for ds10_0182.png",
+  "ds10_0183.png": "Caption for ds10_0183.png",
+  "ds10_0184.png": "Caption for ds10_0184.png",
+  "ds10_0185.png": "Caption for ds10_0185.png",
+  "ds10_0186.png": "Caption for ds10_0186.png",
+  "ds10_0187.png": "Caption for ds10_0187.png",
+  "ds10_0188.png": "Caption for ds10_0188.png",
+  "ds10_0189.png": "Caption for ds10_0189.png",
+  "ds10_0190.png": "Caption for ds10_0190.png",
+  "ds10_0191.png": "Caption for ds10_0191.png",
+  "ds10_0192.png": "Caption for ds10_0192.png",
+  "ds10_0193.png": "Caption for ds10_0193.png",
+  "ds10_0194.png": "Caption for ds10_0194.png",
+  "ds10_0195.png": "Caption for ds10_0195.png",
+  "ds10_0196.png": "Caption for ds10_0196.png",
+  "ds10_0197.png": "Caption for ds10_0197.png",
+  "ds10_0198.png": "Caption for ds10_0198.png",
+  "ds10_0199.png": "Caption for ds10_0199.png",
+  "ds10_0200.png": "Caption for ds10_0200.png",
+  "ds10_0201.png": "Caption for ds10_0201.png",
+  "ds10_0202.png": "Caption for ds10_0202.png",
+  "ds10_0203.png": "Caption for ds10_0203.png",
+  "ds10_0204.png": "Caption for ds10_0204.png",
+  "ds10_0205.png": "Caption for ds10_0205.png",
+  "ds10_0206.png": "Caption for ds10_0206.png",
+  "ds10_0207.png": "Caption for ds10_0207.png",
+  "ds10_0208.png": "Caption for ds10_0208.png",
+  "ds10_0209.png": "Caption for ds10_0209.png",
+  "ds10_0210.png": "Caption for ds10_0210.png",
+  "ds1_growth_chart_965147ad-de55-4ed1-90f9-8199210e6afc.png": "Caption for ds1_growth_chart_965147ad-de55-4ed1-90f9-8199210e6afc.png",
+  "sample1.png": {
+    "concise_caption": {
+      "text": "new sales sales trends",
+      "confidence": 0.0989
+    },
+    "detailed_caption": {
+      "text": "new please provide a detailed description.s sales sales sales sales sales sales sales sales sales sales sales sales sales sales sales",
+      "confidence": 0.3753
+    },
+    "metadata": {
+      "section_header": "Sales",
+      "above_text": "and",
+      "caption": "New",
+      "picture_id": "#/pictures/0",
+      "footnote": "=",
+      "below_text": "Clients"
+    }
+  },
+  "ds1_bar_chart_5fdf6ab7-94ad-4c88-a48b-6703bb7a38b3.jpg": {
+    "concise_caption": {
+      "text": "revenue distribution by region",
+      "confidence": 0.0006
+    },
+    "detailed_caption": {
+      "text": "revenue distribution by region please provide a detailed description., 2007",
+      "confidence": 0.0007
+    },
+    "metadata": {
+      "section_header": "Revenue Analysis",
+      "above_text": "Key performance indicators",
+      "caption": "Revenue distribution by region",
+      "picture_id": "#/pictures/0",
+      "footnote": "Manual annotation pending",
+      "below_text": "Extracted from company dashboard"
+    }
+  },
+  "ds1_bar_chart_237154a542fa121ca475ff59a6d6ea44.jpg.jpg": {
+    "concise_caption": {
+      "text": "circuit layout and flow rate",
+      "confidence": 0.0001
+    },
+    "detailed_caption": {
+      "text": "circuit layout and flow please provide a detailed description.",
+      "confidence": 0.0005
+    },
+    "metadata": {
+      "section_header": "Revenue Analysis",
+      "above_text": "Key performance indicators",
+      "caption": "Circuit layout and flow",
+      "picture_id": "#/pictures/0",
+      "footnote": "Q4 spikes due to seasonal demand",
+      "below_text": "Extracted from company dashboard"
+    }
+  },
+  "ds1_bar_chart_histogram-example-2.png.jpg": {
+    "concise_caption": {
+      "text": "circuit layout and flow",
+      "confidence": 0.0014
+    },
+    "detailed_caption": {
+      "text": "circuit layout and flow please provide a detailed description.",
+      "confidence": 0.0018
+    },
+    "metadata": {
+      "section_header": "Revenue Analysis",
+      "above_text": "Growth trajectory",
+      "caption": "Circuit layout and flow",
+      "picture_id": "#/pictures/0",
+      "footnote": "Generated by AI system",
+      "below_text": "Generated for analysis"
+    }
+  },
+  "ds1_bar_chart_07154450-b2cc-4eaf-904d-4f86dc0277d7.jpg": {
+    "concise_caption": {
+      "text": "revenue distribution by region",
+      "confidence": 0.0002
+    },
+    "detailed_caption": {
+      "text": "revenue distribution by region please provide a detailed description., ukraine, may 2009",
+      "confidence": 0.0003
+    },
+    "metadata": {
+      "section_header": "User Engagement",
+      "above_text": "Growth trajectory",
+      "caption": "Revenue distribution by region",
+      "picture_id": "#/pictures/0",
+      "footnote": "Data verified by internal audit",
+      "below_text": "Generated for analysis"
+    }
+  },
+  "ds1_just_image_62cb3771-1525-4513-932a-2a1ef3c5e1d0.jpg": {
+    "concise_caption": {
+      "text": "diagram of internal system architecture ferraris",
+      "confidence": 0.0006
+    },
+    "detailed_caption": {
+      "text": "diagram of internal system architecture please provide a detailed description. ferrari",
+      "confidence": 0.0006
+    },
+    "metadata": {
+      "section_header": "Performance Trends",
+      "above_text": "Annual summary",
+      "caption": "Diagram of internal system architecture",
+      "picture_id": "#/pictures/0",
+      "footnote": "Manual annotation pending",
+      "below_text": "Source - Internal Report"
+    }
+  },
+  "ds2_256085101_2c2617c5d0.jpg": {
+    "concise_caption": {
+      "text": "user engagement comparison between platforms and dogs",
+      "confidence": 0.0003
+    },
+    "detailed_caption": {
+      "text": "user engagement comparison between platforms please provide a detailed description.er",
+      "confidence": 0.0001
+    },
+    "metadata": {
+      "section_header": "Business Metrics",
+      "above_text": "Q2 vs Q1",
+      "caption": "User engagement comparison between platforms",
+      "picture_id": "#/pictures/0",
+      "footnote": "Generated by AI system",
+      "below_text": "Generated for analysis"
+    }
+  },
+  "ds1_table_1c0eeca4-1e18-472a-a04c-97309611e298.jpg": {
+    "concise_caption": {
+      "text": "diagram of internal system architecture",
+      "confidence": 0.0004
+    },
+    "detailed_caption": {
+      "text": "diagram of internal system architecture please provide a detailed description.",
+      "confidence": 0.0005
+    },
+    "metadata": {
+      "section_header": "Business Metrics",
+      "above_text": "Market distribution",
+      "caption": "Diagram of internal system architecture",
+      "picture_id": "#/pictures/0",
+      "footnote": "Preliminary figures",
+      "below_text": "Source - Internal Report"
+    }
+  },
+  "ds1_diagram_1125d14b-40b8-415b-920e-d6de48bc0213.jpg": {
+    "concise_caption": {
+      "text": "user engagement comparison between platforms and platforms the user engagement between platforms and platforms the user engagement between platforms the user interaction between platforms the user interaction between",
+      "confidence": 0.2216
+    },
+    "detailed_caption": {
+      "text": "user engagement comparison between platforms please provide a detailed description.er ' s perspective",
+      "confidence": 0.0003
+    },
+    "metadata": {
+      "section_header": "Technical Overview",
+      "above_text": "Key performance indicators",
+      "caption": "User engagement comparison between platforms",
+      "picture_id": "#/pictures/0",
+      "footnote": "Manual annotation pending",
+      "below_text": "Source - Internal Report"
+    }
+  },
+  "ds1_graph_5ff3d601-6ef7-43b3-88a0-b667ff89108a.jpg": {
+    "concise_caption": {
+      "text": "monthly trend in conversions",
+      "confidence": 0.0004
+    },
+    "detailed_caption": {
+      "text": "monthly trend in conversions please provide a detailed description.",
+      "confidence": 0.0002
+    },
+    "metadata": {
+      "section_header": "Technical Overview",
+      "above_text": "Growth trajectory",
+      "caption": "Monthly trend in conversions",
+      "picture_id": "#/pictures/0",
+      "footnote": "Generated by AI system",
+      "below_text": "Company database"
+    }
+  },
+  "ds1_bar_chart_histogram-example-2.jpg": {
+    "concise_caption": {
+      "text": "user engagement comparison between platforms",
+      "confidence": 0.0025
+    },
+    "detailed_caption": {
+      "text": "user engagement comparison between platforms please provide a detailed description.er",
+      "confidence": 0.0005
+    },
+    "metadata": {
+      "section_header": "User Engagement",
+      "above_text": "Annual summary",
+      "caption": "User engagement comparison between platforms",
+      "picture_id": "#/pictures/0",
+      "footnote": "Generated by AI system",
+      "below_text": "Company database"
+    }
+  },
+  "sample8.jpg": {
+    "concise_caption": {
+      "text": "chart titled ' ' showing vs. ' ' s growth",
+      "confidence": 0.0526
+    },
+    "detailed_caption": {
+      "text": "chart titled ' ' showing vs. please provide a detailed description.",
+      "confidence": 0.0006
+    },
+    "metadata": {
+      "section_header": "User Engagement",
+      "above_text": "Key performance indicators",
+      "caption": "User engagement comparison between platforms",
+      "picture_id": "#/pictures/0",
+      "footnote": "Generated by AI system",
+      "below_text": "Company database"
+    }
+  },
+  "sample12.jpg": {
+    "concise_caption": {
+      "text": "a bar chart with a bar chart and a bar chart",
+      "confidence": 0.4381
+    },
+    "detailed_caption": {
+      "text": "please describe in detail., thailand",
+      "confidence": 0.0025
+    },
+    "metadata": {
+      "section_header": "all",
+      "above_text": "",
+      "caption": "",
+      "picture_id": "#/pictures/0",
+      "footnote": "",
+      "below_text": ""
+    }
+  },
+  "sample4.jpg": {
+    "concise_caption": {
+      "text": "circuit layout and flow chart",
+      "confidence": 0.0003
+    },
+    "detailed_caption": {
+      "text": "circuit layout and flow please provide a detailed description.er",
+      "confidence": 0.0004
+    },
+    "metadata": {
+      "section_header": "User Engagement",
+      "above_text": "Annual summary",
+      "caption": "Circuit layout and flow",
+      "picture_id": "#/pictures/0",
+      "footnote": "Data verified by internal audit",
+      "below_text": "Source - Internal Report"
+    }
+  },
+  "sample11.jpg": {
+    "concise_caption": {
+      "text": "monthly trend in conversions",
+      "confidence": 0.0002
+    },
+    "detailed_caption": {
+      "text": "monthly trend in conversions please provide a detailed description.",
+      "confidence": 0.0001
+    },
+    "metadata": {
+      "section_header": "Performance Trends",
+      "above_text": "Key performance indicators",
+      "caption": "Monthly trend in conversions",
+      "picture_id": "#/pictures/0",
+      "footnote": "Data verified by internal audit",
+      "below_text": "Compiled by analytics team"
+    }
+  },
+  "ds1_bar_chart_images399.jpg": {
+    "concise_caption": {
+      "text": "the highest athletes who are most paid",
+      "confidence": 0.2142
+    },
+    "detailed_caption": {
+      "text": "\ud83d\udccb Detailed Caption (89%): The chart shows that LeBron James earns significantly more from endorsements ($48M) than from sports ($19M)...",
+      "confidence": 0.0023
+    },
+    "metadata": {
+      "chart_type": null,
+      "title": null,
+      "x_axis": null,
+      "y_axis": null,
+      "source": null
+    }
+  },
+  "sample9.jpg": {
+    "concise_caption": {
+      "text": "a bar chart showing the number of vehicles that have been tested for the ride",
+      "confidence": 0.3831
+    },
+    "detailed_caption": {
+      "text": "please describe in detail., thailand, and the philippines",
+      "confidence": 0.0006
+    },
+    "metadata": {
+      "section_header": "A divided bar chart to show the results of a traffic survey",
+      "above_text": "120",
+      "caption": "",
+      "picture_id": "#/pictures/0",
+      "footnote": "",
+      "below_text": "100"
+    }
+  },
+  "ds2_2079152458_40712c3b40.jpg": {
+    "concise_caption": {
+      "text": "a dog with a tennis ball in its mouth",
+      "confidence": 0.6395
+    },
+    "detailed_caption": {
+      "text": "please describe in detail., turkey",
+      "confidence": 0.0023
+    },
+    "metadata": {
+      "section_header": "",
+      "above_text": "",
+      "caption": "",
+      "picture_id": "#/pictures/0",
+      "footnote": "",
+      "below_text": ""
+    }
+  },
+  "sample6.jpg": {
+    "concise_caption": {
+      "text": "diagram of internal system architecture",
+      "confidence": 0.0005
+    },
+    "detailed_caption": {
+      "text": "diagram of internal system architecture please provide a detailed description.",
+      "confidence": 0.0004
+    },
+    "metadata": {
+      "section_header": "Technical Overview",
+      "above_text": "Annual summary",
+      "caption": "Diagram of internal system architecture",
+      "picture_id": "#/pictures/0",
+      "footnote": "Manual annotation pending",
+      "below_text": "Generated for analysis"
+    }
+  },
+  "ds1_bar_chart_images399_debug.jpg": {
+    "concise_caption": {
+      "text": "revenue distribution by region",
+      "confidence": 0.0002
+    },
+    "detailed_caption": {
+      "text": "revenue distribution by region please provide a detailed description., thailand",
+      "confidence": 0.001
+    },
+    "metadata": {
+      "section_header": "Performance Trends",
+      "above_text": "Market distribution",
+      "caption": "Revenue distribution by region",
+      "picture_id": "#/pictures/0",
+      "footnote": "Generated by AI system",
+      "below_text": "Source - Internal Report"
+    }
+  },
+  "sample5_debug.jpg": {
+    "concise_caption": {
+      "text": "circuit layout and flow chart",
+      "confidence": 0.0004
+    },
+    "detailed_caption": {
+      "text": "circuit layout and flow please provide a detailed description., ca, ca, ca, ca, ca, ca, ca, ca, ca",
+      "confidence": 0.2595
+    },
+    "metadata": {
+      "section_header": "Performance Trends",
+      "above_text": "Growth trajectory",
+      "caption": "Circuit layout and flow",
+      "picture_id": "#/pictures/0",
+      "footnote": "Generated by AI system",
+      "below_text": "Source - Internal Report"
+    }
+  },
+  "sample10.jpg": {
+    "concise_caption": {
+      "text": "a diagram of the different types of the human brain",
+      "confidence": 0.3101
+    },
+    "detailed_caption": {
+      "text": "please describe in detail.i, the most important of the three - dimensional structures",
+      "confidence": 0.0018
+    },
+    "metadata": {
+      "section_header": "",
+      "above_text": "",
+      "caption": "",
+      "picture_id": "#/pictures/0",
+      "footnote": "",
+      "below_text": ""
+    }
+  },
+  "ds1_bar_chart_images28.jpg": {
+    "concise_caption": {
+      "text": "a graph of the number of different types of the human",
+      "confidence": 0.2549
+    },
+    "detailed_caption": {
+      "text": "please describe in detail., thailand, 2007",
+      "confidence": 0.0026
+    },
+    "metadata": {
+      "chart_type": null,
+      "title": null,
+      "x_axis": null,
+      "y_axis": null,
+      "source": null
+    }
+  },
+  "ds1_bar_chart_images508.jpg": {
+    "concise_caption": {
+      "text": "a diagram of the different types of the human body",
+      "confidence": 0.3137
+    },
+    "detailed_caption": {
+      "text": "please describe in detail., thailand",
+      "confidence": 0.0026
+    },
+    "metadata": {
+      "chart_type": null,
+      "title": null,
+      "x_axis": null,
+      "y_axis": null,
+      "source": null
+    }
+  }
+}

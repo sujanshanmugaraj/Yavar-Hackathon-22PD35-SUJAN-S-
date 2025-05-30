@@ -1,0 +1,6 @@
+section_header: None
+above_text: None
+caption: None
+below_text: None
+footnote: None
+picture_id: #/pictures/0

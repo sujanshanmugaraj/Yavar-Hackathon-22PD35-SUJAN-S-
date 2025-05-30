@@ -1,0 +1,6 @@
+section_header: Heights
+above_text: Cherry
+caption: None
+below_text: Tees.
+footnote: None
+picture_id: #/pictures/0
