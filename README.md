@@ -214,11 +214,11 @@ Training is performed using the [`train.py`](./train.py) script.
 
 ### Frontend
 
-![Screenshot 2025-05-30 192349](https://github.com/user-attachments/assets/662df9c8-2253-44c5-a3a0-a6174064156f)
+![Screenshot 2025-05-30 192349](https://github.com/user-attachments/assets/a7a3a225-7ab7-4c26-8237-9dbdce7b7310)
 
-![Screenshot (281)](https://github.com/user-attachments/assets/65f26bf4-c760-4019-8765-2145560d7df4)
+![Screenshot 2025-05-30 210623](https://github.com/user-attachments/assets/e637a94c-6c2a-485f-ae9d-207ffbfa928e)
 
-![Screenshot (282)](https://github.com/user-attachments/assets/2298e83a-410e-4019-9556-b818c9e40098)
+![Screenshot 2025-05-30 210632](https://github.com/user-attachments/assets/5dbe54c2-ae77-48c2-b0b7-a085ba3c23f1)
 
 ![WhatsApp Image 2025-05-30 at 23 06 14_90805819](https://github.com/user-attachments/assets/bfe36a75-c4af-40d1-8489-241260d4b11c)
 
