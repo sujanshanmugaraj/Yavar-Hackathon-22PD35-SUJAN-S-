@@ -144,9 +144,15 @@ Training is performed using the [`train.py`](./train.py) script.
 ![Screenshot 2025-05-29 183525](https://github.com/user-attachments/assets/bb2d4415-ac21-4259-a9a5-c6ef809f3dff)
 
 
+
 ### 🖼️ Images Considered (These are a few of them)
 
-![Screenshot 2025-05-30 232253](https://github.com/user-attachments/assets/41a7261b-bc7b-4e37-b377-81961c3bf4a5)
+![Screenshot 2025-05-30 232106](https://github.com/user-attachments/assets/a32f1def-f9be-426d-9a42-2e89746cb9d4)
+![Screenshot 2025-05-30 232140](https://github.com/user-attachments/assets/82e01f17-069f-4499-8ff7-c130e3bbc473)
+![Screenshot 2025-05-30 232202](https://github.com/user-attachments/assets/cc4b8da8-5b48-40a4-905e-bb0d52313918)
+![Screenshot 2025-05-30 232230](https://github.com/user-attachments/assets/88a8a7c1-ff37-4683-b5ab-02ba332b168a)
+![Screenshot 2025-05-30 232253](https://github.com/user-attachments/assets/5c98b00d-da5c-4959-83e2-7833bdedf2e9)
+![Screenshot 2025-05-30 232314](https://github.com/user-attachments/assets/8d70afeb-3a8a-4e55-9c3f-f4644c7e6686)
 
 
 
@@ -204,19 +210,19 @@ Training is performed using the [`train.py`](./train.py) script.
 
 ### The input image
 
-![ds1_bar_chart_images399](https://github.com/user-attachments/assets/27ac3650-985d-4bc0-8936-77c11ab9e1c6)
+![ds1_bar_chart_images399](https://github.com/user-attachments/assets/8dc36fac-eb43-48a0-8f19-62c8c3f445fa)
 
 ### Frontend
 
-![Screenshot 2025-05-30 192349](https://github.com/user-attachments/assets/66a6f337-ac31-42ea-abad-b0776fcdc4bb)
+![Screenshot 2025-05-30 192349](https://github.com/user-attachments/assets/662df9c8-2253-44c5-a3a0-a6174064156f)
 
-![Screenshot 2025-05-30 210623](https://github.com/user-attachments/assets/43431518-2e78-4e62-9ab5-8d233aa05a38)
+![Screenshot (281)](https://github.com/user-attachments/assets/65f26bf4-c760-4019-8765-2145560d7df4)
 
-![Screenshot 2025-05-30 210632](https://github.com/user-attachments/assets/df9eab0b-1308-4853-be9a-80fe640abbff)
+![Screenshot (282)](https://github.com/user-attachments/assets/2298e83a-410e-4019-9556-b818c9e40098)
 
-![WhatsApp Image 2025-05-30 at 23 06 15_926fd978](https://github.com/user-attachments/assets/64246deb-18ff-478f-921e-7f715c55d7bb)
+![WhatsApp Image 2025-05-30 at 23 06 14_90805819](https://github.com/user-attachments/assets/bfe36a75-c4af-40d1-8489-241260d4b11c)
 
-![Screenshot 2025-05-30 210649](https://github.com/user-attachments/assets/b53150d5-0141-4464-bcbb-37262afd05c1)
+![Screenshot 2025-05-30 210623](https://github.com/user-attachments/assets/932763b6-6ec0-40d6-8426-95a93e4bf4b8)
 
 
 * **Concise (92%)**: "📝 LeBron James leads endorsement earnings among top athletes"
