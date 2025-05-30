@@ -1,11 +1,11 @@
 # IMAGE-CAPTIONING-FROM-CONTEXTUAL-METADATA-USING-VISION-LANGUAGE-MODELS-VLMS
 
-## 🧑‍💻 Author 
+## Author 
 
 **SUJAN S (22PD35)**  
 MSc (Data Science)
 
-## 🌐 Overview
+## Overview
 
 This project generates **concise** and **detailed** captions for visual content (charts, diagrams, images, etc.) using both:
 
@@ -16,7 +16,7 @@ It leverages fine-tuned open-source Vision-Language Models (VLMs) to generate gr
 
 ---
 
-## 🧰 Problem Statement
+## Problem Statement
 
 Develop a fine-tuned open-source VLM that:
 
@@ -27,7 +27,7 @@ Develop a fine-tuned open-source VLM that:
 
 ---
 
-## 📚 Folder Structure
+## Folder Structure
 
 ```
 IMAGE-CAPTIONING-FROM-CONTEXTUAL-METADATA-USING-VISION-LANGUAGE-MODELS-VLMS/
@@ -69,7 +69,7 @@ IMAGE-CAPTIONING-FROM-CONTEXTUAL-METADATA-USING-VISION-LANGUAGE-MODELS-VLMS/
 
 ---
 
-## 🤖 Input Format
+## Input Format
 
 ### Images
 
@@ -90,7 +90,7 @@ below_text: Source - Internal Report
 
 ---
 
-## 📊 Output Format
+## Output Format
 
 In `output_folder/`:
 
@@ -115,18 +115,18 @@ In `output_folder/`:
 
 ---
 
-## 🚀 Model & Methodology
+## Model & Methodology
 
-### 🌟 VLM Used
+### VLM Used
 
 * BLIP-2 with ViT-GGML architecture
 * Fine-tuned on my custom dataset combining image content and structured metadata
 
-### 🚀 Training
+### Training
 
 Training is performed using the [`train.py`](./train.py) script.
 
-#### 🏋️‍♂️ Training Process
+#### Training Process
 
 - The dataset is composed of:
   - Chart images from [`img_folder/`](./img_folder/)
@@ -138,7 +138,7 @@ Training is performed using the [`train.py`](./train.py) script.
 - Loss and token-level accuracy are logged during each epoch.
 - Trained model checkpoints are saved to the [`checkpoints/`](./checkpoints/) directory.
 
-#### ⚙️ Configuration
+#### Configuration
 
 - **Optimizer:** AdamW  
 - **Epochs:** 3  
@@ -150,7 +150,7 @@ Training is performed using the [`train.py`](./train.py) script.
 
 
 
-### 🖼️ Images Considered (These are a few of them)
+### Images Considered (These are a few of them)
 
 ![Screenshot 2025-05-30 232106](https://github.com/user-attachments/assets/a32f1def-f9be-426d-9a42-2e89746cb9d4)
 ![Screenshot 2025-05-30 232202](https://github.com/user-attachments/assets/cc4b8da8-5b48-40a4-905e-bb0d52313918)
@@ -160,12 +160,12 @@ Training is performed using the [`train.py`](./train.py) script.
 
 
 
-### 👨‍📋 Preprocessing
+### Preprocessing
 
 * Image resizing & normalization
 * Metadata parsed and tokenized (using `metadata_parser.py`)
 
-### 🌐 Caption Generation
+### Caption Generation
 
 * `generate_caption_with_confidence.py` combines:
 
@@ -176,14 +176,14 @@ Training is performed using the [`train.py`](./train.py) script.
   * `Concise Caption`: Summary-style
   * `Detailed Caption`: Descriptive, explanatory
 
-### ✅ Evaluation Metrics
+### Evaluation Metrics
 
 * BLEU
 * ROUGE-1, ROUGE-L
 * Semantic similarity using Sentence-BERT cosine score
 * Implemented in `evaluation.py`
 
-### ⚡ Confidence & Consistency
+### Confidence & Consistency
 
 * Each caption has a score \[0.0 - 1.0]
 * If score < threshold (e.g., 0.4), it is highlighted in overlay
@@ -191,7 +191,7 @@ Training is performed using the [`train.py`](./train.py) script.
 
 ---
 
-## 🌍 Frontend & API
+## Frontend & API
 
 * `frontend/index.html` allows image upload
 * Connects to `backend/app.py` Flask server
@@ -203,14 +203,14 @@ Training is performed using the [`train.py`](./train.py) script.
 
 ---
 
-## ✍️ Logs & Error Handling
+## Logs & Error Handling
 
 * Low-confidence or contradictory captions logged in `logs/`
 * Invalid images or corrupted metadata files are gracefully handled
 
 ---
 
-## 📉 Example Output
+## Example Output
 
 ### The input image
 
@@ -229,8 +229,8 @@ Training is performed using the [`train.py`](./train.py) script.
 ![Screenshot 2025-05-30 210649](https://github.com/user-attachments/assets/697e28e4-abc6-4001-b994-214ff063945d)
 
 
-* **Concise (92%)**: "📝 LeBron James leads endorsement earnings among top athletes"
-* **Detailed (89%)**: "📋 The chart shows that LeBron James earns significantly more from endorsements (\$48M) than from sports (\$19M)..."
+* **Concise (92%)**: "LeBron James leads endorsement earnings among top athletes"
+* **Detailed (89%)**: "The chart shows that LeBron James earns significantly more from endorsements (\$48M) than from sports (\$19M)..."
 
 Annotated in:
 
@@ -239,7 +239,7 @@ Annotated in:
 
 ---
 
-## 🚪 Constraints
+## Constraints
 
 * Only open-source models/libraries used
 * Mandatory fine-tuning done
